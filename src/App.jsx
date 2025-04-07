@@ -9,7 +9,7 @@ const App = () => {
         <img src={logo} alt="Spotube Logo" className='h-55 mx-auto -my-7' />
 
         <div className=" dash relative left-38 bottom-14 w-45 border-1 border-white">
-
+        
         </div>
 
         <p className='relative left-37 bottom-13 text-amber-300 font-semibold'>
