@@ -33,7 +33,7 @@ const App = () => {
             className="relative left-23 top-17 border border-white/30 w-72 h-12 bg-transparent text-white px-4 rounded"
           />
 
-          <button className='relative right-25 top-35 border-1 border-white/10 h-10 w-25 rounded-xl font-semibold text-white bg-opacity-50 hover:text-black' style={{ backgroundColor: "rgba(233, 237, 0, 0.5)" }}>Next</button>
+          <button className='relative right-25 top-35 border-1 border-white/10 h-10 w-25 rounded-xl font-semibold text-white bg-opacity-50 hover:text-black cursor-pointer' style={{ backgroundColor: "rgba(233, 237, 0, 0.5)" }}>Next</button>
 
           <a className="absolute right-38 bottom-10 underline text-xs text-amber-200/90" href="">Already have an account ? Sign in</a>
 
